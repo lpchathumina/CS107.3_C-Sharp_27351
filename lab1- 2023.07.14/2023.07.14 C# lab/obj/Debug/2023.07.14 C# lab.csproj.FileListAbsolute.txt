@@ -1,0 +1,8 @@
+D:\NSBM\1st Year\2 SEM\C#\class\2023.07.14 C# lab\2023.07.14 C# lab\bin\Debug\2023.07.14 C# lab.exe.config
+D:\NSBM\1st Year\2 SEM\C#\class\2023.07.14 C# lab\2023.07.14 C# lab\bin\Debug\2023.07.14 C# lab.exe
+D:\NSBM\1st Year\2 SEM\C#\class\2023.07.14 C# lab\2023.07.14 C# lab\bin\Debug\2023.07.14 C# lab.pdb
+D:\NSBM\1st Year\2 SEM\C#\class\2023.07.14 C# lab\2023.07.14 C# lab\obj\Debug\2023.07.14 C# lab.csproj.AssemblyReference.cache
+D:\NSBM\1st Year\2 SEM\C#\class\2023.07.14 C# lab\2023.07.14 C# lab\obj\Debug\2023.07.14 C# lab.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\1st Year\2 SEM\C#\class\2023.07.14 C# lab\2023.07.14 C# lab\obj\Debug\2023.07.14 C# lab.csproj.CoreCompileInputs.cache
+D:\NSBM\1st Year\2 SEM\C#\class\2023.07.14 C# lab\2023.07.14 C# lab\obj\Debug\2023.07.14 C# lab.exe
+D:\NSBM\1st Year\2 SEM\C#\class\2023.07.14 C# lab\2023.07.14 C# lab\obj\Debug\2023.07.14 C# lab.pdb
